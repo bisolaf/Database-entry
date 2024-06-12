@@ -7,5 +7,5 @@ To view this project in its entirety, set up the backend through the following s
 - Using this <http://localhost:8080/client> you should be able to see what is contained in the database.
 
 While this is running, cd into the frontend folder.
-In your terminal, type <npm start>
-This would create the frontend site where you can interact with the site and view the changes on the database.
+- In your terminal, type <npm start>
+- This would create the frontend site where you can interact with the site and view the changes on the database.
