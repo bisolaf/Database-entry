@@ -1,5 +1,5 @@
 This project utilizes Spring Boot to create a REST API focused on modify and creating data on database systems. 
-I utlised a POSTGRESQL to connect with severs. For the backend, I utilized REACT and Materia UI in create a simple operational interactive component.
+I utlised a POSTGRESQL to connect with severs. For the frontend, I utilized REACT and Materia UI in create a simple operational interactive component.
 
 To view this project in its entirety, set up the backend through the following steps:
 - Clone this repository
